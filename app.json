@@ -1,5 +1,20 @@
 {
   "expo": {
+    "scheme": "4ward_app",
+    "plugins": [
+      [
+        "react-native-fbsdk-next",
+        {
+          "appID": "411176595058736",
+          "clientToken": "d5c76bd41a8b7f3b4949793b7e42402d",
+          "displayName": "4WARD_APP",
+          "advertiserIDCollectionEnabled": false,
+          "autoLogAppEventsEnabled": false,
+          "isAutoInitEnabled": true
+         
+        }
+      ]
+    ],
     "name": "4WARD_APP",
     "slug": "4WARD_APP",
     "version": "1.0.0",
